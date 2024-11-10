@@ -1,0 +1,4 @@
+pyfiglet
+colorama
+fake_useragent
+cloudscraper

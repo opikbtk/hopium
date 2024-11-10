@@ -1,0 +1,1 @@
+query_id=AAFidERjAgAAAGJ0RGMwX_BW&user=%7B%22id%22%3A5960397922%2C%22first_name%22%3A%22aldi%22%2C%22last_name%22%3A%22Siag%22%2C%22username%22%3A%22aldisiag%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1730691817&hash=e3fc8904084a0f835f3db2e885b2942c3ab8670947da9f5c82c0443e5704a5a3
